@@ -1,4 +1,4 @@
-**#Experiment 1: EDA in IPL Dataset**
+**# Experiment 1: EDA in IPL Dataset**
 **Aim:**
 To perform Exploratory Data Analysis (EDA) on the IPL matches dataset and derive insights about matches per season, winning teams, toss decisions, and top venues.
 
